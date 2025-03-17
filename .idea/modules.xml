@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Conectare git/Conectare git.iml" filepath="$PROJECT_DIR$/Conectare git/Conectare git.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iacob_Anca_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/Iacob_Anca_ActivitateCTS2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPITAL A1/SPITAL A1.iml" filepath="$PROJECT_DIR$/SPITAL A1/SPITAL A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPITAL A1/v1_eagerinitialization/v1_eagerinitialization.iml" filepath="$PROJECT_DIR$/SPITAL A1/v1_eagerinitialization/v1_eagerinitialization.iml" />
     </modules>
   </component>
 </project>
